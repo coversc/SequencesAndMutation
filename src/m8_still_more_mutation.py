@@ -12,7 +12,7 @@ import m6_mutation
 
 def main():
     run_test_RETURN_delete_negatives()
-    run_test_MUTATE_delete_negatives()
+    #run_test_MUTATE_delete_negatives()
 
 
 def run_test_RETURN_delete_negatives():
